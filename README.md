@@ -1,4 +1,4 @@
-<img src="launch_kit_banner.png">
+Olmeca DEX
 
 ## Table of contents
 
